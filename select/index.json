@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "愛の花",
+  "base_artist": "aimyon",
+  "createdAt": "2026-02-20T12:13:38.526898Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の花",
+      "artist": "Wakana",
+      "has_synced": true,
+      "path": "select/01_愛の花_Wakana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛の花 (instrumental)",
+      "artist": "Wakana",
+      "has_synced": true,
+      "path": "select/02_愛の花_(instrumental)_Wakana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛の花",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/03_愛の花_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛の花",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/04_愛の花_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛の花 - ai no hana",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/05_愛の花_-_ai_no_hana_aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の花",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_愛の花_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "愛の花",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_愛の花_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "愛の花",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_愛の花_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "愛の花",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_04_愛の花_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "愛の花",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_05_愛の花_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "愛の花",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_06_愛の花_あいみょん.txt"
+    }
+  ]
+}
